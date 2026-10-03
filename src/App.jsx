@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 
-const WHATSAPP_NUMBER = "917249466791";
+const WHATSAPP_NUMBER = "919106129458";
 const MAPS_URL = "https://www.google.com/maps/search/?api=1&query=ShapeUp+Fitness+Club+Laxmi+Chowk+Hinjawadi+Pune";
 
 const programs = [
